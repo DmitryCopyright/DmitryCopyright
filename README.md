@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw0Y2d1MjVmMWdiODM2ZTd1eGs5NHU1b3ByOWhwN2FyeWZ4NDlsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw0Y2d1MjVmMWdiODM2ZTd1eGs5NHU1b3ByOWhwN2FyeWZ4NDlsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" height="70%" width="70%"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
